@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+
+
+div{
+    
+    background-color: #d5d5d5;
+    padding: 50px;
+    font-family: Tahoma;
+    text-align: center;
+    border-bottom: 3px solid black;
+    
+}
+
+h1{
+font-size: 50px;
+text-align: center;
+margin-top: 0;
+
+}
+
+img{
+    width: 190px;
+   
+
+   }
+   
+
+h2{
+    font-size: 24px;
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    line-height: 28px;
+    width: 600px;
+    margin:15px auto 30px auto;
+    border-bottom: 2px;
+    
+
+
+}
+span{
+    font-weight: bold;
+
+
+}
+
+a{
+    background-color: green;
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    padding: 9px;
+    font-family: cursive;
+}   
